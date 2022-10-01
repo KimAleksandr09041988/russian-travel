@@ -1,0 +1,7 @@
+.header__item {
+  padding: 11px 0 0;
+}
+
+.header__item:first-child {
+  margin: 0 18px 0 0;
+}
