@@ -27,11 +27,13 @@
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
 @import url('../blocks/intro/__description/intro__description.css');
+@import url('../blocks/intro/__numbers/intro__numbers.css');
 
-/* intro */
-@import url('../blocks/photo/photo.css');
+/* gallery */
 @import url('../blocks/gallery/gallery.css');
+@import url('../blocks/gallery/__list/gallery__list.css');
 @import url('../blocks/gallery/__img/gallery__img.css');
+
 
 /* places */
 @import url('../blocks/places/places.css');
@@ -41,11 +43,6 @@
 @import url('../blocks/place/__url-heading/place__url-heading.css');
 @import url('../blocks/place/__link/place__link.css');
 @import url('../blocks/place/__img/place__img.css');
-@import url('../blocks/place/__img/_location/place__img_location_kursh.css');
-@import url('../blocks/place/__img/_location/place__img_location_kol.css');
-@import url('../blocks/place/__img/_location/place__img_location_altay.css');
-@import url('../blocks/place/__img/_location/place__img_location_baykal.css');
-@import url('../blocks/place/__img/_location/place__img_location_karelia.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
 
 /* cover */

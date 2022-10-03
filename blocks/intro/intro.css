@@ -5,19 +5,19 @@
 
 @media screen and (max-width:1024px) {
   .intro {
-    padding: 92px 0 0;
+    padding: 92px 48px 0;
   }
 }
 
 @media screen and (max-width:768px) {
   .intro {
     max-width: 100%;
-    padding: 89px 0 0;
+    padding: 89px 24px 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro {
-    padding: 65px 0 0 0;
+    padding: 65px 16px 0;
   }
 }
