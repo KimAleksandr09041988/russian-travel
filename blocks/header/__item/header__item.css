@@ -2,6 +2,6 @@
   padding: 11px 0 0;
 }
 
-.header__item:first-child {
+.header__item:not(:last-child) {
   margin: 0 18px 0 0;
 }
