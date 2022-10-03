@@ -1,0 +1,19 @@
+.menu__link {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: rgba(255, 255, 255, 1);
+  transition: color .3s ease-in-out;
+}
+
+.menu__link:hover {
+  color: rgba(255, 255, 255, .8);
+}
+
+@media screen and (max-width:685px) {
+  .menu__link {
+    font-size: 24px;
+    line-height: 24px;
+  }
+}
