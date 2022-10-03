@@ -4,12 +4,12 @@
 
 @media screen and (max-width:768px) {
   .photo {
-    padding: 88px 24px 0;
+    padding: 88px 0 0;
   }
 }
 
 @media screen and (max-width:320px) {
   .photo {
-    padding: 65px 16px 0;
+    padding: 65px 0 0;
   }
 }
