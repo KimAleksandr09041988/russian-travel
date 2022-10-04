@@ -7,13 +7,14 @@
 
 @media screen and (max-width:1024px) {
   .places {
+    align-items: stretch;
     padding: 88px 48px 0;
   }
 }
 
 @media screen and (max-width:768px) {
   .places {
-    padding: 88px 0 0;
+    padding: 88px 24px 0;
   }
 }
 
